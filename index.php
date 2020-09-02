@@ -110,6 +110,7 @@ h2 span{
 .weekday {
     display: flex;
     flex-direction: column;
+    width: 200px;
 }
 .weekday img {
     width: 50px;
